@@ -263,7 +263,7 @@ i.si-wordpress:before {
     align-content: center;
     text-align: center;
     min-height: 300px;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), center / cover no-repeat url("./images/header-bg-img.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), center / cover no-repeat url("https://sarvtheme.github.io/SarvTheme/images/header-bg-img.jpg");
     color: white;
 }
 
